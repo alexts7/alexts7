@@ -1,4 +1,4 @@
-![Banner](./White Minimalist Corporate Personal Profile LinkedIn Banner.jpg)
+![Banner](./WhiteMinimalistCorporatePersonalProfileLinkedInBanner.jpg)
 
 
 
