@@ -1,5 +1,6 @@
 ![Banner](./White Minimalist Corporate Personal Profile LinkedIn Banner.png)
 
+
 # 👋 ¡Hola! Soy Alex Terron Soler
 
 **QA Engineer | Automatización de pruebas | Postman · Selenium · JIRA · APIs**
