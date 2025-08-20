@@ -1,6 +1,4 @@
-![Banner](./WhiteMinimalistCorporatePersonalProfileLinkedInBanner.jpg)
-
-
+![Banner](./WhiteMinimalistCorporatePersonalProfileLinkedinBanner.jpg)
 
 # 👋 ¡Hola! Soy Alex Terron Soler
 
