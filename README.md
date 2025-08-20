@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 # 👋 ¡Hola! Soy Alex Terron Soler
 
