@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 👋 ¡Hola! Soy Alex Terron Soler
 
 **QA Engineer | Automatización de pruebas | Postman · Selenium · JIRA · APIs**
