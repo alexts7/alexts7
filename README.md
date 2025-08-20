@@ -1,4 +1,5 @@
-![Banner](./White-Minimalist-Corporate-Personal-Profile-LinkedIn-Banner.jpg)
+![Banner](./White Minimalist Corporate Personal Profile LinkedIn Banner.jpg)
+
 
 
 # 👋 ¡Hola! Soy Alex Terron Soler
