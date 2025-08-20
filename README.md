@@ -4,7 +4,7 @@
 
 🌍 Roses, España  
 ✉️ [alexterronsoler7@gmail.com](mailto:alexterronsoler7@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/feed/) | [Portfolio](enlace a portafolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/alex-terron-soler-5a33b0129/) | [Portfolio](enlace a portafolio)
 
 ---
 
@@ -27,20 +27,13 @@ Apasionado del control de calidad, automatización y mejora continua en proyecto
 ## 📈 Actividad
 
 - Repositorios destacados (actualizados y con README completos)
-- [Automated-API-Testing](enlace)
-- [WebApp-QA-Suite](enlace)
-- [QA-Bootcamp-TripleTen](enlace)
-
----
-
-## 🌐 Proyecto en línea
-
-- [Demo proyecto web QA](enlace a Netlify/Vercel/GitHub Pages)
+- https://github.com/alexts7/qa-project-Urban-Routes-es
+- https://github.com/alexts7/qa-project-Urban-Grocers-app-es
 
 ---
 
 ## 📫 Contacto
 
 ¿Quieres colaborar o tienes una propuesta?  
-Escríbeme por [LinkedIn](https://www.linkedin.com/feed/) o [Email](mailto:alexterronsoler7@gmail.com).
+Escríbeme por [LinkedIn](https://www.linkedin.com/in/alex-terron-soler-5a33b0129/) o [Email](alexterronsoler7@gmail.com).
 
